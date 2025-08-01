@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const reduce_1 = require("./reduce");
+// forEach();
+// concat();
+// fill();
+// filter();
+// testFind();
+// testIncludes();
+// testJoin();
+// testMap();
+(0, reduce_1.testReduce)();
